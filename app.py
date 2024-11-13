@@ -25,7 +25,7 @@ def get_ai_response(conversation, model):
         return "Sorry, I couldn't process that request due to an error."
 
 # Streamlit app configuration and title
-st.set_page_config(page_title="AI Chat App", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="Procoder", page_icon="🤖", layout="wide")
 st.title("💬 ProCoder")
 
 # Model selection dropdown
