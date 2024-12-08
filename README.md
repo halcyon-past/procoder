@@ -72,4 +72,4 @@ This project is licensed under the MIT License.
 ## Contact
 
 Made with ❤️ by Aritro Saha  
-[GitHub](https://github.com/yourusername)  |    [LinkedIn](https://www.linkedin.com/in/yourprofile)  |  [Portfolio](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/halcyon-past)      [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritro-saha/)    [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://aritro.tech/)    [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@veripyed)
