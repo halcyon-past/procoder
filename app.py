@@ -89,6 +89,7 @@ else:
             <a href="https://github.com/halcyon-past" target="_blank">GitHub</a> | 
             <a href="https://www.linkedin.com/in/aritro-saha/" target="_blank">LinkedIn</a> | 
             <a href="https://aritro.tech/" target="_blank">Portfolio</a>
+            <a href="https://www.youtube.com/@veripyed" target="_blank">Youtube</a>
         </div>
         """,
         unsafe_allow_html=True
