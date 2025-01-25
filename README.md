@@ -8,6 +8,7 @@ ProCoder is an AI-powered chat application built with Streamlit and OpenAI's API
 - **Conversational Memory**: Keeps track of conversation history during the session.
 - **User-Friendly Interface**: Built with Streamlit for a responsive and interactive chat experience.
 - **Customizable Design**: Clean, modern layout with footer links for easy navigation.
+- **Password Protection**: Added Password protection to make sure your api is not used by someone else.
 
 ## Setup
 
@@ -40,6 +41,7 @@ ProCoder is an AI-powered chat application built with Streamlit and OpenAI's API
    - Create a `.env` file in the project root and add your OpenAI API key:
      ```
      OPENAI_API_KEY=your_openai_api_key_here
+     PASSWORD=your_password_here
      ```
 
 5. **Run the App**:
