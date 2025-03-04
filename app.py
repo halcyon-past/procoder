@@ -49,7 +49,7 @@ else:
     st.title("💬 ProCoder")
 
     # Model selection dropdown
-    model_options = ["gpt-4o", "gpt-4o-mini", "o1-mini", "o1-preview", "o1"]
+    model_options = ["gpt-4o", "gpt-4o-mini", "o1-mini", "o1-preview", "o1", "o3-mini"]
     selected_model = st.selectbox("Choose AI Model", model_options, index=0)
 
     # Initialize session state for conversation
